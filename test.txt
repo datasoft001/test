@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testfelan filan
+=======
+test laga luga
+>>>>>>> bc786585f638c30b84bc532877b71e18d4d65eb3
